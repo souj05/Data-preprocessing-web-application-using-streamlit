@@ -1,2 +1,2 @@
 # Data-preprocessing-web-application-using-streamlit
-checkout this new app is https://bit.ly/36NbBPA
+this project is created  using Python and Streamlit. In this we are adding all the necessary data pre-processing stuff that a data scientist need to prepare the data for use. Such as Missing value Treatment , Outliers Treatment , Feature Scaling. In all this options there will be again sub option such as which method to use for the above process .checkout this new app is https://bit.ly/36NbBPA
